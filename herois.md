@@ -5,3 +5,4 @@
 - **Black Panther**: Trajo de vibranium i agilitat. Origen: Wakanda. Defensor tecnològic.
 - **Thor**: Control del tro i el martell Mjolnir. Origen: Asgard. Força mística.
 - **Doctor Strange**: Arts místiques. Origen: Kamar-Taj. Protector de la realitat.
+- Iron Man i Spider-Man tenen una relació de mentor i alumne
